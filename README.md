@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Jota 👋
 
-<!--
-**JotaCastaman/JotaCastaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT student at Instituto Federal de Rondônia (Campus Vilhena) getting into
+software development. I use Void Linux as my daily driver and tend to build
+things when I get annoyed at how something works.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[transparencia-vha](https://github.com/JotaCastaman/transparencia-vha)**
+A data collector and natural language chatbot for Vilhena-RO's public
+transparency portal — because the official interface is a nightmare to navigate.
+Reverse-engineered the portal's REST API and built a scraper in Python to make
+public spending data actually accessible.
+
+**[Hanami](https://github.com/JotaCastaman/Hanami)**
+My personal Void Linux setup. Hyprland, Kitty, Neovim — configured the way I
+like it.
