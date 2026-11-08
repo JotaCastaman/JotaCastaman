@@ -7,5 +7,5 @@ things when I get annoyed at how something works.
 ## Projects
 
 **[Hanami](https://github.com/JotaCastaman/Hanami)**
-My personal Void Linux setup. Hyprland, Kitty, Neovim — configured the way I
+My personal Void Linux setup. Sway, Kitty, Neovim — configured the way I
 like it.
